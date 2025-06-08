@@ -1,10 +1,9 @@
 package org.ljy;
 
-import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution_0608 {
+public class Solution_0608_Leetcode_386 {
     public List<Integer> lexicalOrder(int n) {
         List<Integer> ret = new ArrayList<>();
         int number = 1;
